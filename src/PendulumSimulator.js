@@ -592,7 +592,7 @@ const PendulumSimulator = () => {
       
       {/* Footer con derechos de autor */}
       <footer className="simulator-footer">
-        <p>© 2025 Daniel Parada. Todos los derechos reservados.</p>
+        <p>© 2025 Denil Parada. Todos los derechos reservados.</p>
       </footer>
     </div>
   );
